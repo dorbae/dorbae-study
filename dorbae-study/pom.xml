@@ -9,5 +9,6 @@
   <modules>
   	<module>dorbae-blockchain</module>
     <module>dorbae-spring</module>
+    <module>dorbae-jdbc</module>
   </modules>
 </project>
